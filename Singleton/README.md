@@ -1,0 +1,2 @@
+## Description
+- The Singleton pattern is often employed when you want to restrict the instantiation of a class to a single object, providing a global point of access to that object throughout the application. It is commonly used for classes that manage shared resources, such as database connections, logging systems, or configuration settings.

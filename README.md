@@ -5,6 +5,7 @@ This repository contains examples and explanations of various design patterns im
 ## Table of Contents
 - Introduction
 - Patterns Covered
+- Description
 - Getting Started
 - Usage
 - Contributing
@@ -18,13 +19,37 @@ Each pattern is described in detail, including its purpose, structure, and imple
 The following design patterns are currently covered in this repository:
 1. Creational Patterns
     - [Singleton](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Factory Method](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Abstract Factory](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Builder](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Prototype](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+2. Structural Patterns
+    - [Adapter](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Decorator](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Composite](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Facade](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Proxy](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+3. Behavioral Patterns
+    - [Strategy](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Observer](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Template Method](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Command](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [State](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+  
+The list above is not exhaustive, and more patterns will be added in the future. Contributions are welcome to expand the coverage of patterns.
 
+## Description
+- The Singleton pattern is often employed when you want to restrict the instantiation of a class to a single object, providing a global point of access to that object throughout the application. It is commonly used for classes that manage shared resources, such as database connections, logging systems, or configuration settings.
+## Getting Started
+To get started with the examples in this repository, follow these steps:
 
-## Install & Dependence
-- python
-- pytorch
-- numpy
+1. Clone the repository: git clone https://github.com/if164ever1/.NET-Patterns.git.
+2. Navigate to the cloned directory: cd .NET-Patterns
+3. Choose the pattern you want to explore and navigate to its directory: cd pattern-name
+4. Review the documentation and code files related to the pattern
+5. dotnet run
 
+Make sure you have a C# development environment set up, including a compatible version of the .NET Framework or .NET Core.
 ## Dataset Preparation
 | Dataset | Download |
 | ---     | ---   |
