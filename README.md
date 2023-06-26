@@ -25,7 +25,7 @@ The following design patterns are currently covered in this repository:
     - [Adapter](https://github.com/if164ever1/.NET-Patterns/tree/main/Adapter)
     - [Decorator](https://github.com/if164ever1/.NET-Patterns/tree/main/Decorator)
     - [Composite](https://github.com/if164ever1/.NET-Patterns/tree/main/Composite)
-    - [Facade](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Facade](https://github.com/if164ever1/.NET-Patterns/tree/main/Facade)
     - [Proxy](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
 3. Behavioral Patterns
     - [Strategy](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
