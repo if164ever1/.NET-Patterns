@@ -1,0 +1,3 @@
+## Description
+The Factory Method pattern is a creational design pattern that provides an interface for creating objects but allows subclasses to decide which class to instantiate. It promotes loose coupling between the creator and the specific classes it creates.
+The Factory Method pattern is often used when you have a base class or interface that defines a common set of methods, but the concrete implementation of those methods can vary depending on the specific context or requirements. It allows you to delegate the responsibility of object creation to subclasses, thus promoting extensibility and flexibility.

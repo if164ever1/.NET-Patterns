@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+
 public class Logger
 {
     private static Logger instance;
