@@ -17,7 +17,7 @@ Each pattern is described in detail, including its purpose, structure, and imple
 ## Patterns Covered
 The following design patterns are currently covered in this repository:
 1. Creational Patterns
-    - Singleton
+    - [Singleton](https://github.com)
 
 
 ## Install & Dependence
