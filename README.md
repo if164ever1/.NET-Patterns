@@ -22,7 +22,7 @@ The following design patterns are currently covered in this repository:
     - [Builder](https://github.com/if164ever1/.NET-Patterns/tree/main/Builder)
     - [Prototype](https://github.com/if164ever1/.NET-Patterns/tree/main/Prototype)
 2. Structural Patterns
-    - [Adapter](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Adapter](https://github.com/if164ever1/.NET-Patterns/tree/main/Adapter)
     - [Decorator](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
     - [Composite](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
     - [Facade](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
