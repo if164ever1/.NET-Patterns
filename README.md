@@ -5,11 +5,9 @@ This repository contains examples and explanations of various design patterns im
 ## Table of Contents
 - Introduction
 - Patterns Covered
-- Description
 - Getting Started
 - Usage
 - Contributing
-- License
 
 ## Introduction
 Design patterns are proven solutions to common problems that arise during software development. They serve as templates or blueprints for constructing reusable and maintainable code. This repository focuses on design patterns specifically related to C#.
@@ -38,8 +36,6 @@ The following design patterns are currently covered in this repository:
   
 The list above is not exhaustive, and more patterns will be added in the future. Contributions are welcome to expand the coverage of patterns.
 
-## Description
-- The Singleton pattern is often employed when you want to restrict the instantiation of a class to a single object, providing a global point of access to that object throughout the application. It is commonly used for classes that manage shared resources, such as database connections, logging systems, or configuration settings.
 ## Getting Started
 To get started with the examples in this repository, follow these steps:
 
@@ -50,60 +46,18 @@ To get started with the examples in this repository, follow these steps:
 5. dotnet run
 
 Make sure you have a C# development environment set up, including a compatible version of the .NET Framework or .NET Core.
-## Dataset Preparation
-| Dataset | Download |
-| ---     | ---   |
-| dataset-A | [download]() |
-| dataset-B | [download]() |
-| dataset-C | [download]() |
+## Usage
+Each pattern directory contains a detailed README file explaining the pattern's concepts, usage guidelines, and example code. Review the README file of the specific pattern you're interested in to understand how to use it effectively.
 
-## Use
-- for train
-  ```
-  python train.py
-  ```
-- for test
-  ```
-  python test.py
-  ```
-## Pretrained model
-| Model | Download |
-| ---     | ---   |
-| Model-1 | [download]() |
-| Model-2 | [download]() |
-| Model-3 | [download]() |
+Feel free to explore the examples, modify the code, and integrate the patterns into your own projects. The examples are intended to be educational and practical, serving as a reference for your own implementation.
 
+## Contributing
+Contributions are always welcome! If you would like to contribute to this repository, follow these steps:
+1. Fork the repository
+2. Create a new branch for your feature or bug fix: git checkout -b new-feature
+3. Make your changes and test them thoroughly
+4. Commit your changes: git commit -m 'Add new feature'
+5. Push to the branch: git push origin new-feature
+6. Submit a pull request detailing your changes
 
-## Directory Hierarchy
-```
-|—— Strategy
-|    |—— Strategy.cs
-```
-## Code Details
-### Tested Platform
-- software
-  ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
-  PyTorch: 1.7.1, 1.8.1
-  ```
-- hardware
-  ```
-  CPU: Intel Xeon 6226R
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-### Hyper parameters
-```
-```
-## References
-- [paper-1]()
-- [paper-2]()
-- [code-1](https://github.com)
-- [code-2](https://github.com)
-  
-## License
-
-## Citing
-If you use xxx,please use the following BibTeX entry.
-```
-```
+Please ensure that your contributions align with the repository's purpose and adhere to best practices. We appreciate your effort in making this repository more valuable for the community.
