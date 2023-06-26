@@ -20,7 +20,7 @@ The following design patterns are currently covered in this repository:
     - [Factory Method](https://github.com/if164ever1/.NET-Patterns/tree/main/FactoryMethod)
     - [Abstract Factory](https://github.com/if164ever1/.NET-Patterns/tree/main/AbstractFactory)
     - [Builder](https://github.com/if164ever1/.NET-Patterns/tree/main/Builder)
-    - [Prototype](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Prototype](https://github.com/if164ever1/.NET-Patterns/tree/main/Prototype)
 2. Structural Patterns
     - [Adapter](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
     - [Decorator](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
