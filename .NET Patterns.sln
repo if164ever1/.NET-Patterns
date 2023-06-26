@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{F721E728-4FDC-4359-A3F8-A9C187C7635C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{0AAD2FEB-3271-4228-8435-038B7ABD7FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F721E728-4FDC-4359-A3F8-A9C187C7635C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F721E728-4FDC-4359-A3F8-A9C187C7635C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F721E728-4FDC-4359-A3F8-A9C187C7635C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AAD2FEB-3271-4228-8435-038B7ABD7FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AAD2FEB-3271-4228-8435-038B7ABD7FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AAD2FEB-3271-4228-8435-038B7ABD7FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AAD2FEB-3271-4228-8435-038B7ABD7FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
