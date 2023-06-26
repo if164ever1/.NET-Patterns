@@ -18,8 +18,8 @@ The following design patterns are currently covered in this repository:
 1. Creational Patterns
     - [Singleton](https://github.com/if164ever1/.NET-Patterns/tree/main/Singleton)
     - [Factory Method](https://github.com/if164ever1/.NET-Patterns/tree/main/FactoryMethod)
-    - [Abstract Factory](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
-    - [Builder](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Abstract Factory](https://github.com/if164ever1/.NET-Patterns/tree/main/AbstractFactory)
+    - [Builder](https://github.com/if164ever1/.NET-Patterns/tree/main/Builder)
     - [Prototype](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
 2. Structural Patterns
     - [Adapter](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
