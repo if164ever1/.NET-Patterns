@@ -30,7 +30,7 @@ The following design patterns are currently covered in this repository:
 3. Behavioral Patterns
     - [Strategy](https://github.com/if164ever1/.NET-Patterns/tree/main/Strategy)
     - [Observer](https://github.com/if164ever1/.NET-Patterns/tree/main/Observer)
-    - [Template Method](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
+    - [Template Method](https://github.com/if164ever1/.NET-Patterns/tree/main/TemplateMethod)
     - [Command](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
     - [State](https://github.com/if164ever1/.NET-Patterns/blob/main/Singleton/Program.cs)
   
